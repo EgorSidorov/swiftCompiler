@@ -1,0 +1,14 @@
+PLUS=1
+MINUS=2
+MULT=3
+DIV=4
+COMMENT=5
+INT=6
+DOUBLE=7
+ID=8
+WS=9
+NUMBER=10
+'+'=1
+'-'=2
+'*'=3
+'/'=4
